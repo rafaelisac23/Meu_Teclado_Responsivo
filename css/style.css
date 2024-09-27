@@ -133,6 +133,11 @@ body,html{
     }
 }
 
+@media (orientation: landscape) {
+    .teclado {
+        max-height: 35%; 
+    }
+}
 
 
 
